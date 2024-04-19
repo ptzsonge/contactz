@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'outfit';
-    background: linear-gradient(#ffdad5, #fff7f9);
+    background: linear-gradient(#f885bb, #f74874);
 }
 .contact-container{
     height: 100vh;
@@ -21,7 +21,7 @@ body{
 }
 .contact-left-title{
     font-weight: 600;
-    color: #a363aa;
+    color: #5b30f5;
     font-size: 40px;
     margin-bottom: 5px;
 }
@@ -29,7 +29,7 @@ body{
     border: none;
     width: 120px;
     height: 5px;
-    background-color: #a363aa;
+    background-color: #dffaad;
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -59,11 +59,11 @@ body{
     align-items: center;
     padding: 15px 30px;
     font-size: 16px;
-    color: #fff;
+    color: #03570e;
     gap: 10px;
     border: none;
     border-radius: 50px;
-    background: linear-gradient(270deg, #ff994f,#fa6d86);
+    background: linear-gradient(270deg, #8df8c6,#e3f732);
     cursor: pointer;
 }
 .contact-left button img{
@@ -71,6 +71,7 @@ body{
 }
 .contact-right img{
     width: 500px;
+    border-radius: 10px;
 }
 @media (max-width:800px){
     .contact-inputs{
